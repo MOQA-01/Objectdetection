@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Object Detection Program is a project developed by [MOQA](https://github.com/MOQA-01) for the purpose of detecting objects in images. The program is built using [Programming Language] and utilizes [Framework or Library] for the object detection model.
+This Object Detection Program is a project developed by [MOQA](https://github.com/MOQA-01) for the purpose of detecting objects in images. The program is built using Python for the object detection model.
 
 ## Features
 
